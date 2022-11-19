@@ -1,5 +1,5 @@
 [package]
-name = "alternating_characters"
+name = "anagram"
 version = "0.1.0"
 edition = "2021"
 

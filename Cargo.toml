@@ -1,2 +1,2 @@
 [workspace]
-members = ["alternating_characters"]
+members = ["alternating_characters", "anagram"]

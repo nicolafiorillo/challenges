@@ -3,9 +3,5 @@
 version = 3
 
 [[package]]
-name = "alternating_characters"
-version = "0.1.0"
-
-[[package]]
-name = "anagram"
+name = "challenges"
 version = "0.1.0"

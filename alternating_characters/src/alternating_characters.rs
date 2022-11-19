@@ -41,7 +41,7 @@ mod tests {
     }
 
     #[test]
-    fn maxiimum_text_lenght() {
+    fn maximum_text_lenght() {
         assert_eq!(alternating_characters(&"A".repeat(MAX_LENGHT)), 99_999);
     }
 
